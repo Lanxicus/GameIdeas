@@ -16,9 +16,9 @@ Hover through the grid and two-dimensional cartesian manifold.
 
 
 Plot: 
-You wake up, in a … space. 
+You wake up, in a 2-dimensional euclidean manifold. 
 
-No boundaries, no walls. 
+You are trapped behind a set of invisible boundaries.  
 
 YOU HAVE ENTERED . . .
 
